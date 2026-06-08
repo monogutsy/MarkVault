@@ -28,16 +28,6 @@ This project started as a personal experiment to build a lightweight markdown no
 - Dark mode support
 - Mobile-friendly interface
 
-## Screenshots
-
-### Desktop
-
-![Desktop Screenshot](./screenshots/desktop.png)
-
-### Mobile
-
-![Mobile Screenshot](./screenshots/mobile.png)
-
 ## Tech Stack
 
 | Technology | Purpose |
